@@ -59,5 +59,8 @@ The **History tab** shows every change made to the issue — creation, assignmen
 
 > 💡 **Summary:**  
 > This Help Desk lab demonstrates a full ticket workflow in Jira, from user submission to triage, internal documentation, communication, and resolution, mirroring real-world IT support processes.
+>
+> Move and rename screenshots.md → /tickets/Ticket_1_VPN_Reset.md
+
 
 
