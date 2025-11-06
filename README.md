@@ -17,3 +17,6 @@ I used Jira Service Management to handle simulated support tickets covering comm
 
 ## 🧠 Tools Used
 Jira Service Management • Windows 11 • Cisco AnyConnect • Documentation best practices
+
+## 📸 Screenshots
+See full ticket workflow here 👉 [View screenshots](screenshots.md)
