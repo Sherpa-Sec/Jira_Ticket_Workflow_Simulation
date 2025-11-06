@@ -21,7 +21,7 @@ Customer submits a request through the Help Desk portal describing a VPN login i
 ---
 
 ### ⚙️ 3. Ticket In Progress (Triage & Troubleshooting)
-Ticket status updated to **In Progress**. Investigation begins to identify root cause and potential resolution.
+Ticket status updated to **In Progress**. Investigation begins to identify the root cause and potential resolution.
 
 
 <img width="1525" height="927" alt="03_ticket_in_progress" src="https://github.com/user-attachments/assets/b2074537-5cf1-4d0f-8097-d89608b3a5a5" />
