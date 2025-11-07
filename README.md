@@ -32,6 +32,7 @@ Click any ticket to view the full lifecycle — from user report to resolution.
 | 5️⃣ | [Ticket 05 – Outlook Send/Receive Error](tickets/Ticket_05_Outlook_Issue.md) | Outlook disconnected or unable to send/receive emails |
 | 6️⃣ | [Ticket 06 – Phishing Email Report](tickets/Ticket_06_Phishing_Email.md) | User reported suspicious phishing email for review |
 
+
 ---
 
 📚 *Each ticket includes screenshots, internal notes, and resolution steps, mirroring real IT help desk workflows.*
