@@ -36,4 +36,3 @@ Each ticket shows the full lifecycle: the user report, triage, troubleshooting s
 
 ---
 
-📚 *Each ticket includes screenshots, troubleshooting commands, internal communication, and final resolution, closely mirroring real help desk workflows.*
