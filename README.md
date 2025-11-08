@@ -11,8 +11,9 @@ I used Jira Service Management to work through common support issues like VPN fa
 - Following a real help desk lifecycle from report → diagnosis → fix → closure  
 
 ## 📁 Project Structure
-- `/tickets` → Completed Jira tickets with screenshots and resolutions  
-- *(Optional)* `/documentation` → Troubleshooting notes, commands, lessons learned
+- `/tickets` → Completed Jira tickets with screenshots and resolutions
+- `README.md` → Project overview and documentation
+
 
 ## 🧠 Tools Used
 - Jira Service Management
