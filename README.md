@@ -1,7 +1,6 @@
 # 🧰 Help Desk Ticket Simulation (Jira Service Management)
 
-This project replicates a real IT Help Desk environment.  
-I used Jira Service Management to work through common support issues like VPN failures, account lockouts, printer errors, Outlook problems, and phishing reports.
+This project replicates a real IT Help Desk environment. I used Jira Service Management to work through common support issues such as VPN failures, account lockouts, printer errors, Outlook problems, and phishing reports.
 
 ## 🎯 Skills Demonstrated
 - Ticket creation, triage, assignment, and workflow tracking  
