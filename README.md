@@ -1,28 +1,41 @@
-# 🧰 Help Desk Ticket Simulation (Jira Service Management)
+# 🔷 Jira Ticket Workflow Simulation
 
-This project replicates a real IT Help Desk environment. I used Jira Service Management to work through common support issues such as VPN failures, account lockouts, printer errors, Outlook problems, and phishing reports.
+## Overview
 
-## 🎯 Skills Demonstrated
-- Ticket creation, triage, assignment, and workflow tracking  
-- Clear communication with users and internal notes  
-- Troubleshooting Windows, VPN, Outlook, printer, and network access issues  
-- Root cause analysis with step-by-step documentation  
-- Following a real help desk lifecycle from report → diagnosis → fix → closure  
-
-## 📁 Project Structure
-- `/tickets` → Completed Jira tickets with screenshots and resolutions
-- `README.md` → Project overview and documentation
+- Replicates a real IT Help Desk environment
+- Uses Jira Service Management to troubleshoot common IT support issues
 
 
-## 🧠 Tools Used
+<Br>
+
+## Skills Demonstrated
+- Ticket creation, triage, assignment, workflow tracking  
+- User communication and internal documentation  
+- Troubleshooting Windows, VPN, Outlook, printers, and network access  
+- Root cause analysis with clear step-by-step notes  
+- Full help desk lifecycle: report → diagnose → fix → close  
+
+
+<Br>
+
+## Project Structure
+
+| Item        | Description                                   |
+|-------------|-----------------------------------------------|
+| `/tickets`  | Completed Jira tickets with screenshots + fixes |
+| `README.md` | Project overview and documentation            |
+
+<Br>
+
+## Tools Used
 - Jira Service Management
 - Windows 11 
 
----
+<Br>
 
-## 🎟️ Ticket Library
+## Ticket Library
 
-Each ticket shows the full lifecycle: the user report, triage, troubleshooting steps, internal notes, and final resolution.
+- Each ticket shows the full lifecycle: the user report, triage, troubleshooting steps, internal notes, and final resolution.
 
 | Ticket Title | Description |
 |---------------|--------------|
