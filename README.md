@@ -24,7 +24,7 @@
 ## 2. Skills Demonstrated
 
 - Ticket creation, triage, assignment, and workflow tracking
-- Clear user communication amd internal documentation
+- Clear user communication and internal documentation
 - Troubleshooting Windows, VPN, Outlook, printers, shared drives, and network access
 - Root cause analysis with step-by-step notes
 - Working through a full help desk lifecycle
