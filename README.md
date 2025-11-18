@@ -17,14 +17,14 @@
 - Uses Jira Service Management to troubleshoot common IT issues
 - Shows how tickets move from:
 
-      report → triage → diagnosis → fix → close
+      Report → Triage → Diagnosis → Fix → Close
 
 <Br>
 
 ## 2. Skills Demonstrated
 
 - Ticket creation, triage, assignment, and workflow tracking
-- Clear user communication + internal documentation
+- Clear user communication amd internal documentation
 - Troubleshooting Windows, VPN, Outlook, printers, shared drives, and network access
 - Root cause analysis with step-by-step notes
 - Working through a full help desk lifecycle
@@ -35,7 +35,7 @@
 
 | Item        | Description                                   |
 |-------------|-----------------------------------------------|
-| `/tickets`  | Completed Jira tickets with screenshots + fixes |
+| `/tickets`  | Completed Jira tickets with screenshots and fixes |
 | `README.md` | Project overview and documentation            |
 
 <Br>
@@ -44,19 +44,18 @@
 
 - Jira Service Management
 - Windows 11
-- Basic troubleshooting tools (CMD, PowerShell, Event Viewer, Control Panel, Network settings)
+- Basic troubleshooting tools: CMD, PowerShell, Event Viewer, Control Panel, Network settings
 
 <Br>
 
 ## 5. Ticket Library
 
-Each ticket shows the full lifecycle: 
-
-- The user’s issue report
-- Triage steps
-- Troubleshooting actions
-- Internal notes
-- Resolution summary
+Each ticket includes the full workflow from start to finish:
+- User issue description
+- Triage process
+- Troubleshooting steps
+- Internal documentation
+- Resolution details
 
 | Ticket Title                                                                     | Description                                    |
 | -------------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -88,5 +87,5 @@ This project matches real Tier-1 job responsibilities for:
 - Junior System Administrator
 - NOC/SOC Tier-1 hybrid roles
 
-**It shows practical troubleshooting, clear documentation, and communication skills, all of which employers expect for entry-level roles.*
+**It shows practical troubleshooting, clear documentation, and communication skills, all of which employers expect for entry-level roles.**
 
