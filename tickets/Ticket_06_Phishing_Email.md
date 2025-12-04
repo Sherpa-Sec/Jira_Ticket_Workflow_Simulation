@@ -1,7 +1,7 @@
 # 🎟️ Ticket 06 – Possible Phishing Email (Security Awareness)
 
 ## 1. Ticket Created (Customer Request Submitted)
-The user received an email asking them to verify their password, and the sender's address and link both look suspicious.
+- The user received an email asking them to verify their password, and the sender's address and link both look suspicious.
 
 
 <img width="1671" height="929" alt="01_ticket_in_queue" src="https://github.com/user-attachments/assets/c08439c7-6242-4950-8bbc-dd237cfdc773" />
@@ -10,7 +10,7 @@ The user received an email asking them to verify their password, and the sender'
 ---
 
 ## 2. Ticket Assigned & In Progress
-Ticket assigned to IT Security Support for phishing validation.
+- Ticket assigned to IT Security Support for phishing validation.
 
 <img width="1675" height="936" alt="02_ticket_assigned_in_progress" src="https://github.com/user-attachments/assets/942bc749-2c68-4358-a672-bf5dad5e8f0d" />
 
@@ -28,7 +28,7 @@ Ticket assigned to IT Security Support for phishing validation.
 ---
 
 ## 4. Reply to Customer
-The agent acknowledges the user’s report and confirms it’s phishing.
+- The agent acknowledges the user’s report and confirms it’s phishing.
 
 <img width="1670" height="934" alt="04_reply_to_customer" src="https://github.com/user-attachments/assets/e8639444-8d05-45ce-854c-8a0f553c1623" />
 
@@ -44,7 +44,7 @@ The agent acknowledges the user’s report and confirms it’s phishing.
 ---
 
 ## 6. Ticket Resolved / Done
-Ticket marked **Resolved / Done** after InfoSec confirmation and user awareness response.
+- Ticket marked **Resolved / Done** after InfoSec confirmation and user awareness response.
 
 <img width="1676" height="946" alt="06_ticket_resolved_done" src="https://github.com/user-attachments/assets/ce6d5745-ee52-44fc-bc8c-c8898e2baaec" />
 
@@ -52,7 +52,7 @@ Ticket marked **Resolved / Done** after InfoSec confirmation and user awareness 
 ---
 
 ## 7. Ticket History Log (Full Lifecycle)
-Shows the full ticket trail: creation, triage, communication, and closure.
+- Shows the full ticket trail: creation, triage, communication, and closure.
 
 <img width="1680" height="930" alt="07_ticket_history_log" src="https://github.com/user-attachments/assets/bb449166-2dc5-426c-a166-8fdb70c9cbb5" />
 
@@ -60,6 +60,6 @@ Shows the full ticket trail: creation, triage, communication, and closure.
 ---
 
 ## 💡 **Summary:**  
-> This ticket demonstrates a basic **phishing incident response** in Jira Service Management, from identification and isolation to reporting and user education.  
-> Key skills shown include email header analysis, Exchange message tracing, and InfoSec escalation for threat awareness.
+> - This ticket demonstrates a basic **phishing incident response** in Jira Service Management, from identification and isolation to reporting and user education.  
+> - Key skills shown include email header analysis, Exchange message tracing, and InfoSec escalation for threat awareness.
 
