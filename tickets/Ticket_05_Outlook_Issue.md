@@ -1,5 +1,7 @@
 # 🎟️ Ticket 05 – Outlook Can’t Send or Receive (Email Issue)
 
+<Br>
+
 ## 1. Ticket Created (Customer Request Submitted)
 - The user reports that Outlook is stuck in “Disconnected” and is unable to send or receive emails. Restarting the device did not help.
 
