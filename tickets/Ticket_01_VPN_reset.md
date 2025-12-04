@@ -1,5 +1,7 @@
 # 🎟️ Ticket 01 – VPN Login Fails After Password Reset  
 
+<Br>
+
 ## 1. Ticket Created (Customer Request Submitted)  
 - The customer reports being unable to connect to the VPN after resetting their password. The system shows “Invalid credentials.
 
