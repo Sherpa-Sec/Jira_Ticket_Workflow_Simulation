@@ -9,25 +9,29 @@
 > 6. What I Learned  
 > 7. Why This Project Matters  
 
-
 <Br>
 
 ## 1. Overview
-- Replicates a real IT Help Desk environment
-- Uses Jira Service Management to troubleshoot common IT issues
-- Shows how tickets move from:
 
-      Report → Triage → Diagnosis → Fix → Close
+- Simulated a real-world IT Help Desk environment
+- Used Jira Service Management to handle common end-user IT issues
+- Documented every stage of the ticket lifecycle
+- Demonstrated practical troubleshooting and communication workflows
+- Followed a standard support process:
 
 <Br>
 
+    Report → Triage → Diagnosis → Fix → Close
+
+<br>
+
 ## 2. Skills Demonstrated
 
-- Ticket creation, triage, assignment, and workflow tracking
-- Clear user communication and internal documentation
-- Troubleshooting Windows, VPN, Outlook, printers, shared drives, and network access
-- Root cause analysis with step-by-step notes
-- Working through a full help desk lifecycle
+- Created, triaged, assigned, and tracked support tickets
+- Communicated clearly with users and documented internal notes
+- Troubleshot Windows, VPN, Outlook, printers, shared drives, and network access issues
+- Performed root cause analysis with step-by-step documentation
+- Worked through the full help desk ticket lifecycle
 
 <Br>
 
@@ -42,20 +46,17 @@
 
 ## 4. Tools Used
 
-- Jira Service Management
+
 - Windows 11
-- Basic troubleshooting tools: CMD, PowerShell, Event Viewer, Control Panel, Network settings
+- Jira Service Management
+- Basic troubleshooting tools: CMD, PowerShell, Event Viewer
 
 <Br>
 
 ## 5. Ticket Library
 
-Each ticket includes the full workflow from start to finish:
-- User issue description
-- Triage process
-- Troubleshooting steps
-- Internal documentation
-- Resolution details
+- Each ticket includes the full workflow from start to finish.
+
 
 | Ticket Title                                                                     | Description                                    |
 | -------------------------------------------------------------------------------- | ---------------------------------------------- |
