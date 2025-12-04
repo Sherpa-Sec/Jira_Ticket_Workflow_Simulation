@@ -1,5 +1,7 @@
 # 🎟️ Ticket 06 – Possible Phishing Email (Security Awareness)
 
+<Br>
+
 ## 1. Ticket Created (Customer Request Submitted)
 - The user received an email asking them to verify their password, and the sender's address and link both look suspicious.
 
