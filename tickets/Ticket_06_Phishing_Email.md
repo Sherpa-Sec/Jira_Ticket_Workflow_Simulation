@@ -18,8 +18,8 @@ Ticket assigned to IT Security Support for phishing validation.
 
 ### 3. Ticket In Progress (Analysis & Internal Notes)
 **Internal Note**
-- Possible phishing attempt identified  
-- Indicators: mismatched domain, urgent tone, fake password reset link  
+- Possible phishing attempt identified.
+- Indicators: mismatched domain, urgent tone, fake password reset link.  
  
 
 <img width="1668" height="936" alt="03_internal_note_added" src="https://github.com/user-attachments/assets/4e1468e7-3c20-44a9-87a2-33d5a83a5548" />
