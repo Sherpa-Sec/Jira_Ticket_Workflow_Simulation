@@ -1,12 +1,12 @@
 # 🔷 Jira Ticket Workflow Simulation
 
 > ## Table of Contents
-> 1. Overview  
-> 2. Skills Demonstrated  
-> 3. Project Structure  
-> 4. Tools Used  
-> 5. Ticket Library  
-> 6. What I Learned  
+> 1. Overview
+> 2. Tools Used   
+> 3. Skills Demonstrated
+> 4. Ticket Library
+> 5. Project Structure
+> 6. What I Learned
 > 7. Why This Project Matters  
 
 <Br>
@@ -25,7 +25,15 @@
 
 <br>
 
-## 2. Skills Demonstrated
+## 2. Tools Used
+
+- Windows 11
+- Jira Service Management
+- Basic troubleshooting tools: CMD, PowerShell, Event Viewer
+
+<Br>
+
+## 3. Skills Demonstrated
 
 - Created, triaged, assigned, and tracked support tickets
 - Communicated clearly with users and documented internal notes
@@ -35,25 +43,7 @@
 
 <Br>
 
-## 3. Project Structure
-
-| Item        | Description                                   |
-|-------------|-----------------------------------------------|
-| `/tickets`  | Completed Jira tickets with screenshots and fixes |
-| `README.md` | Project overview and documentation            |
-
-<Br>
-
-## 4. Tools Used
-
-
-- Windows 11
-- Jira Service Management
-- Basic troubleshooting tools: CMD, PowerShell, Event Viewer
-
-<Br>
-
-## 5. Ticket Library
+## 4. Ticket Library
 
 - Each ticket includes the full workflow from start to finish.
 
@@ -70,6 +60,15 @@
 
 <br>
 
+## 5. Project Structure
+
+| Item        | Description                                   |
+|-------------|-----------------------------------------------|
+| `/tickets`  | Completed Jira tickets with screenshots and fixes |
+| `README.md` | Project overview and documentation            |
+
+<Br>
+
 ## 6. What I Learned
 
 - How tickets actually move through a help desk workflow
@@ -82,11 +81,12 @@
 
 ## 7. Why This Project Matters
 
-This project matches real Tier-1 job responsibilities for:
+This project demonstrates hands-on skills used in real Tier-1 operational roles, including:
 
-- IT Support / Help Desk
-- Junior System Administrator
-- NOC/SOC Tier-1 hybrid roles
+- IT Support and Help Desk
+- Junior System Administration
+- SOC and NOC Tier-1 environments
+
 
 **It shows practical troubleshooting, clear documentation, and communication skills, all of which employers expect for entry-level roles.**
 
