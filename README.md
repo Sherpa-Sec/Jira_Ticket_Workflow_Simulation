@@ -16,7 +16,6 @@
 - Simulated a real-world IT Help Desk environment
 - Used Jira Service Management to handle common end-user IT issues
 - Documented every stage of the ticket lifecycle
-- Demonstrated practical troubleshooting and communication workflows
 - Followed a standard support process:
 
 <Br>
@@ -29,7 +28,6 @@
 
 - Windows 11
 - Jira Service Management
-- Basic troubleshooting tools: CMD, PowerShell, Event Viewer
 
 <Br>
 
@@ -37,7 +35,6 @@
 
 - Created, triaged, assigned, and tracked support tickets
 - Communicated clearly with users and documented internal notes
-- Troubleshot Windows, VPN, Outlook, printers, shared drives, and network access issues
 - Performed root cause analysis with step-by-step documentation
 - Worked through the full help desk ticket lifecycle
 
@@ -64,7 +61,7 @@
 
 | Item        | Description                                   |
 |-------------|-----------------------------------------------|
-| `/tickets`  | Completed Jira tickets with screenshots and fixes |
+| `/tickets`  | Completed six Jira tickets with screenshots and fixes |
 | `README.md` | Project overview and documentation            |
 
 <Br>
