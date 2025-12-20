@@ -81,12 +81,5 @@
 
 ## 7. Why This Project Matters
 
-This project demonstrates hands-on skills used in real Tier-1 operational roles, including:
-
-- IT Support and Help Desk
-- Junior System Administration
-- SOC and NOC Tier-1 environments
-
-
-**It shows practical troubleshooting, clear documentation, and communication skills, all of which employers expect for entry-level roles.**
-
+- This project reflects hands-on work similar to entry-level IT, NOC, and SOC Tier-1 environments
+- It shows practical troubleshooting, system validation, and clear documentation
